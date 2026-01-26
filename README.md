@@ -1,7 +1,7 @@
 ## Hi, I'm Carmo!
 
 ✏️ I'm a mathematics and philosophy student with an interest in programming <br/>
-✏️ My main interests are Machine Learning, Information Theory, Financial ML and Philosophy of Mind
+✏️ My main interests are Mathematics, Machine Learning, Information Theory, Physics, Computer Science and Philosophy of Mind
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
