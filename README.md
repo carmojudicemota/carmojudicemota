@@ -1,6 +1,6 @@
 ## Hi, I'm Carmo!
 
-✏️ I'm a mathematics and philosophy student with an interest in programming <br/>
+✏️ I'm a mathematics and philosophy student <br/>
 
 
 ### 🔍 Interests
