@@ -6,7 +6,7 @@
 ### 🔍 Interests
 
 **STEM**  
-Mathematics · Machine Learning · Information Theory · Physics · Computer Science
+Mathematics · Complex Systems and Control · Machine Learning · Information Theory · Physics · Computer Science
 
 **Humanities**  
 Philosophy of Mind · Ethics (incl. AI Ethics) · Philosophy of Mathematics · Epistemology · Decision Theory
