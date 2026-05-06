@@ -9,7 +9,7 @@
 Mathematics · Complex Systems and Control · Machine Learning · Information Theory · Physics · Computer Science
 
 **Humanities**  
-Philosophy of Mind · Ethics (incl. AI Ethics) · Philosophy of Mathematics · Epistemology · Decision Theory
+Philosophy of Mind · Ethics (incl. AI Ethics) · Philosophy of Mathematics, Logic and Computation · Epistemology · Decision Theory
 
 
 
